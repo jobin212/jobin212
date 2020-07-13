@@ -1,4 +1,8 @@
-### Hi there 👋
+# Joseph Tobin
+
+- 🔭 I’m currently working on the core services that power Microsoft Teams
+- 🌱 I’m currently learning about distributed systems and drone building/racing
+- 📫 How to reach me: email in bio
 
 <!--
 **jobin212/jobin212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
